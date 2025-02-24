@@ -47,4 +47,9 @@
 
 ---
 
+![Snake Game](https://github.com/GabriellaCMaciel/Cobrinha_no_Perfil/raw/main/dist/github-snake.svg)
+
+
+---
+
 <div align="center">✨ Criado com dedicação e paixão pelo desenvolvimento ✨</div>
