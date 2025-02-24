@@ -47,12 +47,4 @@
 
 ---
 
-### 🦄 Um toque especial
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
-</div>
-
----
-
 <div align="center">✨ Criado com dedicação e paixão pelo desenvolvimento ✨</div>
