@@ -42,14 +42,13 @@
 ### 🌎 Onde me encontrar
 
 <div align="center">
- <a href="https://www.linkedin.com/in/gabriella-maciel-4996642b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gabriella-maciel-4996642b9/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
 
 <a href="https://web.dio.me/users/cursosgabriella2_0?tab=achievements&page=1" target="_blank">
   <img src="https://img.shields.io/badge/Meu%20Perfil-DIO-FF1493?style=for-the-badge&labelColor=87CEFA&color=FF1493&logoColor=white" alt="Meu Perfil DIO">
 </a>
-
-
-[![Meu Perfil DIO](https://img.shields.io/badge/Meu%20Perfil-DIO-FF1493?style=for-the-badge&labelColor=87CEFA&color=FF1493&logoColor=white)](https://web.dio.me/users/cursosgabriella2_0?tab=achievements&page=1)
 
 </div>
 
