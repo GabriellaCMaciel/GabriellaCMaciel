@@ -1,18 +1,58 @@
-## Bem-vindo(a) ao meu perfil 😁
+### <div align="center">Olá, eu sou Gabriella Maciel 👋</div>
 
- <div>
-   <a href="https://github.com/gabriellacmaciel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellacmaciel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacmaciel&layout=compact&langs_count=6&theme=radical"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-End;Apaixonada+por+UI%2FUX;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
 
-  <a href="https://www.linkedin.com/in/gabriella-maciel-4996642b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
+
+### 🚀 Sobre mim
+
+💻 Desenvolvedora Front-End apaixonada por criar interfaces bonitas e interativas.<br>
+🎨 Amante de design e animações para tornar a web mais dinâmica.<br>
+📚 Atualmente estudando **JavaScript, React e Testes de Software**.<br>
+⚡ Curiosidade: Sempre busco maneiras criativas de solucionar problemas!<br>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,git,github,vscode" />
 </div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellacmaciel&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellacmaciel&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacmaciel&layout=compact&langs_count=6&theme=radical"/>
+</div>
+
+---
+
+### 📌 Projetos Destacados
+
+🔹 [Jogo do Número Secreto](https://github.com/GabriellaCMaciel/Jogo_Numero_Secreto) - É um desafio interativo onde o jogador precisa adivinhar um número aleatório gerado pelo sistema. A cada tentativa, o jogo fornece dicas para ajudar o jogador a encontrar o número correto.<br>
+
+---
+
+### 🌎 Onde me encontrar
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/gabriella-maciel-4996642b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+### 🦄 Um toque especial
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
+</div>
+
+---
+
+<div align="center">✨ Criado com dedicação e paixão pelo desenvolvimento ✨</div>
