@@ -47,7 +47,7 @@
 
 ---
 
-![Snake Game](https://github.com/GabriellaCMaciel/Cobrinha_no_Perfil/.github/workflows/raw/main/dist/github-snake.svg)
+![Snake Game](https://github.com/GabriellaCMaciel/Cobrinha_no_Perfil/raw/main/dist/github-snake.svg)
 
 
 ---
