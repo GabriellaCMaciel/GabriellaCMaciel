@@ -26,9 +26,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellacmaciel&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellacmaciel&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacmaciel&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellacmaciel&show_icons=true&theme=transparent&border_color=5D2E8C&icon_color=5F00BA&title_color=8B5FBF&text_color=7C77B9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacmaciel&layout=compact&langs_count=6&theme=transparent&border_color=5D2E8C&icon_color=5F00BA&title_color=8B5FBF&text_color=7C77B9"/>
 </div>
 
 ---
