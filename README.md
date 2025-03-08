@@ -10,7 +10,7 @@
 
 💻 Desenvolvedora Front-End em desenvolvimento apaixonada por criar interfaces bonitas e interativas.<br>
 🎨 Amante de design e animações para tornar a web mais dinâmica.<br>
-📚 Atualmente estudando **JavaScript**.<br>
+📚 Atualmente estudando **JavaScript** e **UX/UI Design**.<br>
 
 ---
 
