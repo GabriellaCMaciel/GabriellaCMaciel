@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-🌍 Sou do Goiás, Brasil   
+🌍 Sou de Goiás, Brasil   
 🎓 Estudante de Análise e Desenvolvimento de Sistemas   
 💻 Desenvolvedora Front-End em desenvolvimento apaixonada por criar interfaces bonitas e interativas.<br>
 🎨 Amante de design e animações para tornar a web mais dinâmica.<br>
