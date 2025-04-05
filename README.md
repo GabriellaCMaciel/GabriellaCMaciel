@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 🌍 Sou de Goiás, Brasil   
-🎓 Estudante de Análise e Desenvolvimento de Sistemas   
+🎓 Estudante de Engenharia de Software   
 💻 Desenvolvedora Front-End em desenvolvimento apaixonada por criar interfaces bonitas e interativas.<br>
 🎨 Amante de design e animações para tornar a web mais dinâmica.<br>
 📚 Atualmente estudando **JavaScript** e **UX/UI Design**.<br>
