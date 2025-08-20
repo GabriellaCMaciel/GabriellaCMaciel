@@ -19,7 +19,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </div>
 
 ---
