@@ -35,7 +35,7 @@
 
 ### 📌 Projetos Destacados
 
-🔹 [Jogo do Número Secreto](https://github.com/GabriellaCMaciel/Jogo_Numero_Secreto) - É um desafio interativo onde o jogador precisa adivinhar um número aleatório gerado pelo sistema. A cada tentativa, o jogo fornece dicas para ajudar o jogador a encontrar o número correto.<br>
+
 
 ---
 
