@@ -78,10 +78,10 @@ Descomente este bloco e troque NOME-DO-REPO pelos seus repositórios.
 
 <div align="center">
 
-<a href="https://SEU-PORTFOLIO-AQUI" target="_blank">
+<a href="https://github.com/GabriellaCMaciel/portfolio-gabriella-swarttz" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF1493?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
 </a>
-<a href="https://www.linkedin.com/in/gabriella-maciel-4996642b9/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriellacmaciel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gabriellacunhamaciel@gmail.com?subject=Contato%20profissional%20via%20GitHub&body=Ol%C3%A1!%0D%0A%0D%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades%20profissionais%20ou%20poss%C3%ADveis%20colabora%C3%A7%C3%B5es.%0D%0A%0D%0AFico%20%C3%A0%20disposi%C3%A7%C3%A3o.%0D%0A%0D%0AAtenciosamente," target="_blank">
