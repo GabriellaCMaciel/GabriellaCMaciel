@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=200&section=header&text=Gabriella%20Maciel&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=UX%2FUI%20Designer%20%26%20Desenvolvedora%20Full%20Stack&descSize=18&descAlignY=60" alt="Banner com o nome Gabriella Maciel" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Design+com+inten%C3%A7%C3%A3o.;C%C3%B3digo+com+arquitetura.;Produtos+pensados+para+escalar." alt="Texto animado: Design com intenção. Código com arquitetura. Produtos pensados para escalar." />
 
 <br>
