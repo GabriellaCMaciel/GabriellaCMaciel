@@ -111,7 +111,7 @@ e minha direção é a <b>engenharia de IA</b>.
 <h2 align="center">✧ Vamos conversar? ✧</h2>
  
 <div align="center">
-<a href="https://github.com/GabriellaCMaciel/portfolio-gabriella-swarttz">
+<a href="https://gabriellacmaciel.github.io/mundo-swarttz/">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-4B0082?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfólio" />
 </a>
 <a href="https://www.linkedin.com/in/gabriellacmaciel/">
