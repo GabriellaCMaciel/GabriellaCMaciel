@@ -86,7 +86,7 @@ e minha direção é a <b>engenharia de IA</b>.
 <h2 align="center">✧ Projeto em destaque ✧</h2>
  
 <div align="center">
-  <a href="https://github.com/GabriellaCMaciel/mundo-swarttz">
+  <a href="https://gabriellacmaciel.github.io/mundo-swarttz/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaCMaciel&repo=portfolio-gabriella-swarttz&bg_color=0D0D0D&title_color=D4AF37&text_color=E6E6E6&icon_color=8A2BE2&border_color=4B0082&border_radius=12" alt="Repositório do portfólio" />
   </a>
   <!--
